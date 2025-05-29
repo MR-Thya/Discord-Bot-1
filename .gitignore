@@ -1,0 +1,12 @@
+# Environment files
+.env
+
+# Credentials
+credentials.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings (opsional)
+.vscode/
