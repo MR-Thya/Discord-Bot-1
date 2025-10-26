@@ -1,6 +1,6 @@
 import os
 import re
-os.system("pip install requirement.txt")
+os.system("pip install -r requirement.txt")
 import discord
 from dotenv import load_dotenv
 import gspread
